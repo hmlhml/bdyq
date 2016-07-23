@@ -161,6 +161,7 @@ body,ul,ol,h1,h2,h3,h4,input,p{
     float: right;
     width:252px;
     border:0;
+    outline: none;
 }
 .yanzheng input{
 	width:122px;
